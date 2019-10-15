@@ -1,2 +1,2 @@
 # algorithmChallenges
-Toy problems, leetcode problems
+Toy problems, leetcode problems.
